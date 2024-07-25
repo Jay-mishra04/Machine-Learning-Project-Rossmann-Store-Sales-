@@ -9,7 +9,9 @@ Rossmann operates over 3,000 drug stores across 7 European countries. Currently,
 
 ## Dataset
 
-The dataset used in this project is from the [Rossmann Store Sales competition on Kaggle](https://www.kaggle.com/c/rossmann-store-sales). It includes historical sales data for 1,115 Rossmann stores over a period of 2.5 years.
+The dataset used in this project is from the [Rossmann Store Sales competition on Kaggle](https://www.kaggle.com/c/rossmann-store-sales). 
+You can also check out my [GDrive](https://drive.google.com/drive/folders/1JuVBJ3ueoFtOVEPYplmd2Ks4HMV34T43?usp=sharing), it has all the dataset that were used in this project.
+It includes historical sales data for 1,115 Rossmann stores over a period of 2.5 years.
 
 ### Features
 
