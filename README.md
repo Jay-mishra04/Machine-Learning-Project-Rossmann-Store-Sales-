@@ -5,6 +5,8 @@
 
 Rossmann operates over 3,000 drug stores across 7 European countries. Currently, store managers rely on their own predictions for daily sales, leading to varying levels of accuracy. The objective of this project is to develop a machine learning model that can forecast the "Sales" column for the test set. The dataset provided includes historical sales data for 1,115 Rossmann stores, taking into account factors such as promotions, competition, school and state holidays, seasonality, and store locality. It is worth noting that some stores in the dataset were temporarily closed for refurbishment.
 
+![Sales Predictions](rossman_sales_Store.png)
+
 ## Dataset
 
 The dataset used in this project is from the [Rossmann Store Sales competition on Kaggle](https://www.kaggle.com/c/rossmann-store-sales). It includes historical sales data for 1,115 Rossmann stores over a period of 2.5 years.
@@ -68,3 +70,8 @@ The Rossmann Sales Prediction project involved extensive data analysis, feature 
 - Successfully created a model capable of accurately predicting sales for Rossmann stores.
 
 This project showcases the effective utilization of data analysis, feature engineering, and machine learning techniques to solve a real-world forecasting problem. The insights gained from the analysis provide valuable information for decision-making within the retail industry.
+
+
+Feel free to explore the code and documentation provided in this repository to gain a deeper understanding of the project and replicate the results and if you have any questions or suggestions, please don't hesitate to reach out on this [email](jabcd.1997@gmail.com)
+
+Happy forecasting!
